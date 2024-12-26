@@ -84,28 +84,6 @@ function Footer() {
               </div>
             </Col>
           </Row>
-          <Row className="copy_right">
-            <Col>
-              <div>
-                <ul className="list-unstyled text-center mb-0">
-                  <li>
-                    <Link to="/">
-                      © 2023 <span>CODE4EDUCATION</span>. All Rights Reserved
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="/">About Us</Link>
-                  </li>
-                  <li>
-                    <Link to="/">Terms Of Use</Link>
-                  </li>
-                  <li>
-                    <Link to="/">Privacy Policy</Link>
-                  </li>
-                </ul>
-              </div>
-            </Col>
-          </Row>
         </Container>
       </footer>
 
